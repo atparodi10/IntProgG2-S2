@@ -1,4 +1,4 @@
-// Restar dos numeros enteros ingresador wpor el usuario
+// Restar dos numeros enteros ingresador por el usuario
 Algoritmo resta_2_numeros
 	Definir n1, n2, total como enteros
 	
